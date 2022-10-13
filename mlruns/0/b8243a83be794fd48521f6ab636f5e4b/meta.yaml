@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Users/SIDDHANT%20SINGH/Documents/Internship/AIOPS/ML%20Flow/Simple-MLflow-Multistep-workflow/mlruns/0/b8243a83be794fd48521f6ab636f5e4b/artifacts
+end_time: 1665641842029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: b8243a83be794fd48521f6ab636f5e4b
+run_uuid: b8243a83be794fd48521f6ab636f5e4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1665641837619
+status: 3
+tags: []
+user_id: HP
